@@ -8,5 +8,6 @@
 カレントディレクトリに, 「水樹奈々_Astrogation_歌詞.txt」というファイルができる.
 ```shell
 $ python crawler.py http://j-lyric.net/artist/a0018f8/l00c342.html .
+#$ python crawler.py URL TAR_DIR_PATH
 ```
 
